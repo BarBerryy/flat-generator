@@ -1,6 +1,6 @@
 {
-  "buildCommand": "npx --yes vite build",
+  "buildCommand": "node node_modules/vite/bin/vite.js build",
   "installCommand": "npm install",
-  "framework": "vite",
+  "framework": null,
   "outputDirectory": "dist"
 }
